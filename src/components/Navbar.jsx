@@ -21,7 +21,7 @@ export const Navbar = () => {
           <div className='sm:hidden'>
             <button
               type='button'
-              className='hs-collapse-toggle p-2 inline-flex justify-center items-center gap-2 rounded-[4px] border border-onyx dark:border-white font-medium text-black dark:text-white shadow-sm align-middle hover:bg-indigo-200 hover:text-black dark:hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-black dark:focus:ring-offset-white focus:ring-blue transition-all text-sm'
+              className='hs-collapse-toggle p-2 inline-flex justify-center items-center gap-2 rounded-[4px] border border-onyx dark:border-white font-medium text-black dark:text-white shadow-sm align-middle hover:bg-indigo-200 hover:text-black dark:hover:text-white transition-all text-sm'
               data-hs-collapse='#navbar-collapse-with-animation'
               aria-controls='navbar-collapse-with-animation'
               aria-label='Toggle navigation'
