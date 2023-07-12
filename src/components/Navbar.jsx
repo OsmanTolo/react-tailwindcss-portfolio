@@ -1,5 +1,12 @@
 import logo from "../assets/logo.svg";
 
+const navigation = [
+  { name: "Home", href: "#", current: true },
+  { name: "About", href: "#section--1", current: false },
+  { name: "Projects", href: "#section--2", current: false },
+  { name: "Get in Touch", href: "#section--3", current: false },
+];
+
 export const Navbar = () => {
   return (
     <header className='flex flex-wrap sm:justify-start sm:flex-nowrap z-50 w-full text-sm py-3 sm:py-0'>

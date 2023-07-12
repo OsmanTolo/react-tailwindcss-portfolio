@@ -108,11 +108,12 @@ const Projects = () => {
                 CLI Profile Generator
               </h3>
               <p className='mt-3 text-sm text-onyx dark:text-gray-300'>
-                A command line interface (CLI) app that takes user-fed employee
-                information and generates a static HTML webpage to display a
-                summary of each employee for quick access to their emails and
-                GitHub profiles. The application will run in the users CLI of
-                their integrated development environment (IDE) using NodeJs.
+                A command-line interface (CLI) application that uses Node.js to
+                take user-fed employee information and generate a static HTML
+                webpage. The webpage displays a summary of each employee,
+                including their email address and GitHub profile URL. The
+                application runs in the user's CLI of their integrated
+                development environment (IDE).
               </p>
               <ul className='mt-8 flex gap-3 text-xs text-onyx dark:text-gray-300'>
                 <li className='tech-icon'>JavaScript</li>
@@ -151,12 +152,13 @@ const Projects = () => {
               Weather Forecaster
             </h3>
             <p className='mt-3 text-sm text-onyx dark:text-gray-300'>
-              Another weather forecast application dashboard for the web. The
-              app allows a user to view current and the next five days weather
-              weather forecast for any city. Upon searching for a city, the
-              current weather conditions for that city is presented from a query
-              to OpenWeather API, along with the current date using Moment.js
-              library.
+              Yet another weather forecast application dashboard that uses
+              ReactJS, JQuery, REST API, and Moment.js built for the web. The
+              app allows users to view the current and the next five days'
+              weather forecast for any city. When a user searches for a city,
+              the current weather conditions for that city are presented from a
+              query to the OpenWeather API, along with the current date using
+              the Moment.js library.
             </p>
             <ul className='mt-8 flex gap-3 text-xs text-onyx dark:text-gray-300'>
               <li className='tech-icon'>JavaScript</li>
@@ -194,11 +196,12 @@ const Projects = () => {
               CRUD Social Feed
             </h3>
             <p className='mt-3 text-sm text-onyx dark:text-gray-300'>
-              A social media feed page that performs the four basic CRUD
-              operations of a software application - Create, Read, Update and
-              Delete. Users will be able to create data (i.e. the post), have
-              access to the data in the UI by reading the data, update or edit
-              the data, and delete the data.
+              A social media feed page that allows users to perform the four
+              basic CRUD operations: create, read, update, and delete. Users can
+              create new posts, view existing posts, update existing posts, and
+              delete existing posts within a clean user interface that is both
+              functional and visually appealing. Git version control was used
+              extensively in this project to track changes and progress.
             </p>
             <ul className='mt-8 flex gap-3 text-xs text-onyx dark:text-gray-300'>
               <li className='tech-icon'>JavaScript</li>
@@ -236,12 +239,13 @@ const Projects = () => {
               JS Code Quiz App
             </h3>
             <p className='mt-3 text-sm text-onyx dark:text-gray-300'>
-              A multiple choice quiz that lives on the browser. The user is a
-              presented with various JavaScript questions with multiple choice
-              answers to choose from. When answer is clicked, the next question
-              appears. If the answer clicked was incorrect then subtract time
-              from the clock. The quiz will end when all questions are answered,
-              or the player run out of time.
+              A minimalistic JavaScript multiple choice quiz that runs in the
+              browser. The user answers a series of questions with multiple
+              choice answers. When the user clicks on an answer, the next
+              question appears. If the answer is incorrect, the user's time is
+              decremented. The quiz ends when all questions have been answered
+              or when the user runs out of time. The final score and previous
+              scores are displayed at the end of the game
             </p>
             <ul className='mt-8 flex gap-3 text-xs text-onyx dark:text-gray-300'>
               <li className='tech-icon'>JavaScript</li>

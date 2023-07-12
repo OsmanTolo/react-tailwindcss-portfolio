@@ -12,21 +12,22 @@ const About = () => {
             <p className='mb-4'>
               Hey there! I'm Osman, a web developer who's passionate about
               bringing ideas to life online. During the pandemic lockdown in
-              2020, I rekindled my love for coding, which I initially disliked
+              2021, I rekindled my love for coding, which I initially disliked
               during my degree. Seeing my code come alive on a website was truly
               exhilarating!
             </p>
             <p className='mb-4'>
-              Now, I am a graduate of a
+              Now, I am a graduate of a{" "}
               <span className='text-blue'>
                 Front-end Web Development Boot Camp
               </span>
-              , and have extensive experience in building web applications using
-              a variety of technologies. My current focus is on developing
-              inclusive and accessible digital experiences with ReactJs.
+              , and have gained extensive experience in building web
+              applications using a variety of technologies. My current focus is
+              on developing inclusive and accessible digital experiences with
+              ReactJs.
             </p>
             <p className='mb-4'>
-              As an individual who thrives on challenges, I am constantly
+              As an individual who thrives on challenges, I am constantly{" "}
               <span className='text-blue'>
                 seeking new opportunities to learn and grow
               </span>

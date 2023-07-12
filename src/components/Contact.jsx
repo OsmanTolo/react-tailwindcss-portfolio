@@ -18,6 +18,8 @@ const Contact = () => {
           <a
             href='https://www.linkedin.com/in/osman-dumbuya-148581108/'
             className='group flex flex-col bg-white rounded-[4px] shadow-xl hover:shadow-2xl transition dark:bg-onyx'
+            target='_blank'
+            rel='noreferrer'
           >
             <div className='p-4'>
               <div className='flex'>
@@ -57,8 +59,10 @@ const Contact = () => {
 
           {/* Card */}
           <a
-            href='https://www.linkedin.com/in/osman-dumbuya-148581108/'
+            href='https://twitter.com/OsmanTolo_'
             className='group flex flex-col bg-white rounded-[4px] shadow-xl hover:shadow-2xl transition dark:bg-onyx'
+            target='_blank'
+            rel='noreferrer'
           >
             <div className='p-4'>
               <div className='flex'>
@@ -122,8 +126,10 @@ const Contact = () => {
 
           {/* Card */}
           <a
-            href='https://www.linkedin.com/in/osman-dumbuya-148581108/'
+            href='https://github.com/OsmanTolo'
             className='group flex flex-col bg-white rounded-[4px] shadow-xl hover:shadow-2xl transition dark:bg-onyx'
+            target='_blank'
+            rel='noreferrer'
           >
             <div className='p-4'>
               <div className='flex'>
