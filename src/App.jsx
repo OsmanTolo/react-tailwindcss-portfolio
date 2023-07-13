@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import { Navbar } from "./components/Navbar";
 import Projects from "./components/Projects";
-import Example from "./components/Test";
+// import Example from "./components/Test";
 
 const App = () => {
   return (
